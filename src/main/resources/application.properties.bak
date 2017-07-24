@@ -1,0 +1,7 @@
+#Basic Spring Boot Config for Oracle
+oracle.username=akundur
+oracle.password=V3N4YzEyMyQ=
+oracle.url=jdbc:oracle:thin:@rri2pwhsua1:1521:pwu1
+oracle.driver=oracle.jdbc.OracleDriver
+#port details
+server.port=8180
